@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='&quot;Enide repository&quot;'
+    type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1358521300'/>
+  </properties>
+  <children size='1'>
+    <child location='http://download.eclipse.org/egit/updates'/>
+	<child location='http://download.eclipse.org/mylyn/releases/latest'/>
+	<child location='http://dl.bintray.com/nodeclipse/nodeclipse/0.12/'/>
+	<child location='http://oss.opensagres.fr/angularjs-eclipse/0.1.0/'/>
+	<child location='http://oss.opensagres.fr/tern.repository/0.1.0/'/>
+	<child location='http://www.normalesup.org/~simonet/soft/ow/update/'/>
+  </children>
+</repository>
+ 
